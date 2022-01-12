@@ -1,4 +1,4 @@
-# MobFin
+# MobileFinalChatApp
 
 
 ## Entering name to enter the chat <br><br><br> ![Снимок экрана (1)](https://user-images.githubusercontent.com/49878695/149190056-57aa6942-680b-4932-ad86-e4318b337463.png)
